@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/06-springboot-dependency-injection/06-springboot-dependency-injection.iml" filepath="$PROJECT_DIR$/06-springboot-dependency-injection/06-springboot-dependency-injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-springboot-hikaricp/07-springboot-hikaricp.iml" filepath="$PROJECT_DIR$/07-springboot-hikaricp/07-springboot-hikaricp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-springboot-mybatis/08-springboot-mybatis.iml" filepath="$PROJECT_DIR$/08-springboot-mybatis/08-springboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CGBIII.iml" filepath="$PROJECT_DIR$/.idea/CGBIII.iml" />
+    </modules>
+  </component>
+</project>

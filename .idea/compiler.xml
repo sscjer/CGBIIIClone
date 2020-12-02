@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="08-springboot-mybatis" />
+        <module name="07-springboot-hikaricp" />
+        <module name="06-springboot-dependency-injection" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="03-springboot" target="1.8" />
+      <module name="05-springboot-features" target="1.8" />
+      <module name="06-springboot-dependency-injection" target="1.8" />
+      <module name="07-springboot-hikaricp" target="11" />
+      <module name="08-springboot-mybatis" target="11" />
+      <module name="cgb-spring" target="1.8" />
+      <module name="cgb-spring (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="03-springboot" options="-parameters" />
+      <module name="05-springboot-features" options="-parameters" />
+      <module name="06-springboot-dependency-injection" options="-parameters" />
+      <module name="cgb-spring" options="-parameters" />
+      <module name="cgb-spring (1)" options="-parameters" />
+    </option>
+  </component>
+</project>
